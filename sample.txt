@@ -1,0 +1,140 @@
+S.NoState NameTotal Population(Projected 2020)Numbers of  Aadhaar  assigned (LIVE)Saturation %(LIVE)
+1A & N Islands* 4,17,036 3,86,88792.77%
+2Andhra Pradesh*5,39,03,3934,90,64,99591.02%
+3Arunachal Pradesh 15,70,458 12,37,81578.82%
+4Assam3,56,07,0391,53,25,26843.04%
+5Bihar12,47,99,92610,36,87,45783.08%
+6Chandigarh* 11,58,473 11,34,74097.95%
+7Chhattisgarh2,94,36,2312,75,05,90093.44%
+8Dadra & Nagar Haveli and Daman & Diu* 6,15,724 5,92,83896.28%
+9Delhi1,87,10,9222,19,23,885117.17%
+10Goa* 15,86,250 15,87,487100.08%
+11Gujarat*6,38,72,3996,27,44,09898.23%
+12Haryana*2,82,04,6922,92,11,350103.57%
+13Himachal Pradesh* 74,51,955 75,89,415101.84%
+14Jammu Kashmir1,36,06,3201,07,97,54479.36%
+15Jharkhand3,85,93,9483,47,23,70289.97%
+16Karnataka6,75,62,6866,27,41,30992.86%
+17Kerala3,56,99,4433,65,14,435102.28%
+18Ladakh 2,89,023 2,20,75076.38%
+19Lakshadweep73,18371,35797.51%
+20Madhya Pradesh8,53,58,9657,52,28,06688.13%
+21Maharashtra12,31,44,22311,47,19,96193.16%
+22Manipur 30,91,545 25,33,05781.93%
+23Meghalaya 33,66,710 13,66,34340.58%
+24Mizoram 12,39,244 11,24,14490.71%
+25Nagaland 22,49,695 12,84,31057.09%
+26Odisha4,63,56,3344,28,31,82692.40%
+27Puducherry 14,13,542 12,85,93790.97%
+28Punjab*3,01,41,3733,04,41,970101.00%
+29Rajasthan8,10,32,6897,05,34,91387.05%
+30Sikkim 6,90,251 5,76,95783.59%
+31Tamil Nadu7,78,41,2677,24,77,40593.11%
+32Telangana*3,85,10,9823,95,51,086102.70%
+33Tripura 41,69,794 36,90,07688.50%
+34Uttar Pradesh*23,78,82,72520,51,12,74586.22%
+35Uttarakhand1,12,50,8581,11,12,93998.77%
+36West Bengal9,96,09,3039,18,45,43292.21%
+137,05,08,600123,27,78,39689.95%
+*As per data provided by State 
+TOTAL
+State/UT wise Aadhaar Saturation (Overall) - All Age Groups                                                                                                                                     
+31st December, 2020
+----------------Page (0) Break----------------
+S.NoState NamePopulation  (5 < 18Y) (Projected 2020)
+Numbers of  
+Aadhaar  
+assigned (LIVE)
+Saturation %
+(LIVE)
+1A & N Islands*91,52976,92784.05%
+2Andhra Pradesh*1,16,28,0991,00,33,09386.28%
+3Arunachal Pradesh 5,08,371 3,40,32966.95%
+4Assam1,01,19,889 16,71,99016.52%
+5Bihar4,19,41,2003,16,25,02575.40%
+6Chandigarh* 2,65,914 2,47,99493.26%
+7Chhattisgarh 83,35,772 67,96,22881.53%
+8
+Dadra & Nagar Haveli and Daman & Diu* 1,44,653 1,37,54095.08%
+9Delhi 46,25,912 49,62,161107.27%
+10Goa* 3,05,488 2,72,38389.16%
+11Gujarat*1,63,57,7211,40,42,96885.85%
+12Haryana* 64,73,006 66,32,682102.47%
+13Himachal Pradesh* 15,53,575 15,17,97997.71%
+14Jammu Kashmir 39,18,200 23,83,88860.84%
+15Jharkhand1,20,48,4531,02,08,60884.73%
+16Karnataka1,59,21,1961,32,64,71383.31%
+17Kerala 74,56,452 65,12,22687.34%
+18Ladakh83,23042,56951.15%
+19Lakshadweep16,96313,77681.21%
+20Madhya Pradesh2,51,31,6771,95,97,60477.98%
+21Maharashtra2,98,22,2242,37,31,55579.58%
+22Manipur 7,40,131 6,54,12088.38%
+23Meghalaya 11,10,340 1,84,36216.60%
+24Mizoram 3,35,784 2,81,12983.72%
+25Nagaland 7,12,147 2,69,36637.82%
+26Odisha1,20,11,055 95,80,05879.76%
+27Puducherry 2,97,751 2,38,70080.17%
+28Punjab* 61,39,033 60,13,19597.95%
+29Rajasthan2,50,31,4391,75,29,25070.03%
+30Sikkim 1,83,871 1,05,33857.29%
+31Tamil Nadu1,66,76,0511,32,87,91479.68%
+32Telangana* 95,08,836 78,86,91382.94%
+33Tripura 10,29,138 7,88,16176.58%
+34Uttar Pradesh*7,79,67,5665,51,83,50070.78%
+35Uttarakhand 32,56,772 26,52,06281.43%
+36West Bengal2,49,81,4741,82,54,23573.07%
+37,67,30,91428,70,20,53876.19%
+*As per data provided by State 
+TOTAL
+Aadhaar Saturation in 5 < 18 Years  Age band                                                                                                        
+31st December, 2020
+----------------Page (1) Break----------------
+S.NoState NamePopulation  (0 < 5Y) (Projected 2020)
+Numbers of  
+Aadhaar  assigned 
+(LIVE)
+Saturation %
+(LIVE)
+1A & N Islands*31,56113,26542.03%
+2Andhra Pradesh* 38,42,986 18,75,64548.81%
+3Arunachal Pradesh 1,62,29135,08821.62%
+4Assam 36,70,26435,3460.96%
+5Bihar1,53,46,855 28,45,58918.54%
+6Chandigarh*89,00551,79458.19%
+7Chhattisgarh 29,28,692 12,18,55941.61%
+8Dadra & Nagar Haveli and Daman & Diu*59,68334,01857.00%
+9Delhi 15,42,599 6,06,10139.29%
+10Goa* 1,10,06451,85447.11%
+11Gujarat* 57,67,678 23,90,17441.44%
+12Haryana* 23,96,840 20,18,86084.23%
+13Himachal Pradesh* 5,71,930 3,85,51967.41%
+14Jammu Kashmir 15,34,105 3,86,06125.17%
+15Jharkhand 42,71,103 10,67,06724.98%
+16Karnataka 55,77,719 19,34,62334.68%
+17Kerala 26,22,944 6,69,16925.51%
+18Ladakh32,5874,77214.64%
+19Lakshadweep5,7382,45242.73%
+20Madhya Pradesh 87,84,609 23,03,66626.22%
+21Maharashtra1,02,59,401 32,65,59731.83%
+22Manipur 2,91,55654,79118.79%
+23Meghalaya 4,61,3361,7830.39%
+24Mizoram 1,37,70452,44338.08%
+25Nagaland 2,24,0634,1461.85%
+26Odisha 40,36,989 14,52,07735.97%
+27Puducherry 1,06,71341,15538.57%
+28Punjab* 22,97,072 9,88,70943.04%
+29Rajasthan 86,22,934 16,42,01719.04%
+30Sikkim48,0885,03110.46%
+31Tamil Nadu 56,95,962 15,66,42127.50%
+32Telangana* 29,41,235 11,64,23839.58%
+33Tripura 3,66,39169,04318.84%
+34Uttar Pradesh*2,44,57,593 45,63,45118.66%
+35Uttarakhand 10,28,543 4,47,95343.55%
+36West Bengal 79,96,359 14,77,82918.48%
+12,83,21,1953,47,26,31027.06%
+*As per data provided by State 
+TOTAL
+Aadhaar Saturation in 0 < 5 Years Age band                                                                                                        
+31st December, 2020
+----------------Page (2) Break----------------
