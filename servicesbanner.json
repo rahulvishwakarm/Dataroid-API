@@ -1,0 +1,11 @@
+{
+    
+    "servicebanners": 
+    [
+        {"serimg":"serImg1","serHead":"B2B Database","serDesc":"B2B database is a log of all the data your marketing team has about potential clients and customers, We helps customers to target high quality B2B database."},
+        {"serimg":"serImg2","serHead":"Data Research","serDesc":"The data gathered through research will help customers for their marketing Strategy & planning."},
+        {"serimg":"serImg3","serHead":"Data Cleansing","serDesc":"Data Cleansing plays an important role in removing inaccurate data, which will help the marketers to improve their marketing campaigns."},
+        {"serimg":"serImg4","serHead":"Email Database","serDesc":"Email is the most successful and easy way of communication across the business world. It is cost-effective and helps organizations in reducing the cost spent on marketing efforts."},
+        {"serimg":"serImg5","serHead":"Master Database","serDesc":"Master Database management process helps you to manage, consolidate, analysed, integrate, enhance and simplify customer data by giving 360° view of your data."}
+    ]
+}
