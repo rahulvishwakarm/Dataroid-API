@@ -1,0 +1,151 @@
+{
+    "industry": 
+    [
+        {
+            "industrial":{
+                "industrial_category1":
+                    {
+                        "id":1 ,
+                        "type":"IT / ITES Companies Database"
+                    },
+                "industrial_category2":
+                    {"id":2 ,
+                        "type":"Manufacturing Companies Database"
+                    },
+                "industrial_category3":
+                    {"id":3 ,
+                        "type":"BFSI Companies Database"
+                    },
+                "industrial_category4":
+                    {"id":4 ,
+                        "type":"Pharmaceutical Companies Database"
+                    },
+                "industrial_category5":
+                    {"id":5 ,
+                        "type":"Chemical Companies Database"
+                    }
+            },
+
+            "industrial1":{
+                "industrial1_category1":
+                    {
+                        "id":11 ,
+                        "type":"Healthcare Companies Database"
+                    },
+                "industrial2_category2":
+                    {"id":12 ,
+                        "type":"Textile Companies Database"
+                    },
+                "industrial3_category3":
+                    {"id":13 ,
+                        "type":"Infra Companies Database"
+                    },
+                "industrial4_category4":
+                    {"id":14 ,
+                        "type":"Logistic Companies Database"
+                    },
+                "industrial5_category5":
+                    {"id":15 ,
+                        "type":"Start-Up Companies Database"
+                    }
+            },
+
+            "industrial2":{
+                "industrial3_category1":
+                    {
+                        "id":21 ,
+                        "type":"Top Companies Database"
+                    },
+                "industrial3_category2":
+                    {"id":22 ,
+                        "type":"Top Listed Companies Database"
+                    },
+                "industrial3_category3":
+                    {"id":23 ,
+                        "type":"Blue Chip Companies Database"
+                    },
+                "industrial3_category4":
+                    {"id":24 ,
+                        "type":"MNC Companies Database"
+                    },
+                "industrial3_category5":
+                    {"id":25 ,
+                        "type":"SME Companies Database"
+                    }
+            },
+
+            "industrial13":{
+                "industrial4_category1":
+                    {
+                        "id":31 ,
+                        "type":"CEO Contacts Database"
+                    },
+                "industrial4_category2":
+                    {"id":32 ,
+                        "type":"IT Contact Database"
+                    },
+                "industrial4_category3":
+                    {"id":33 ,
+                        "type":"Finance Contact Database"
+                    },
+                "industrial4_category4":
+                    {"id":34 ,
+                        "type":"HR Contact Database"
+                    },
+                "industrial4_category5":
+                    {"id":35 ,
+                        "type":"Marketing Contact Database"
+                    }
+            },
+
+            "industrial4":{
+                "industrial4_category1":
+                    {
+                        "id":41 ,
+                        "type":"Top Companies Database"
+                    },
+                "industrial4_category2":
+                    {"id":42 ,
+                        "type":"Top Listed Companies Database"
+                    },
+                "industrial4_category3":
+                    {"id":43 ,
+                        "type":"Blue Chip Companies Database"
+                    },
+                "industrial4_category4":
+                    {"id":44 ,
+                        "type":"MNC Companies Database"
+                    },
+                "industrial4_category5":
+                    {"id":45 ,
+                        "type":"SME Companies Database"
+                    }
+            },
+
+            "industrial15":{
+                "industrial5_category1":
+                    {
+                        "id":51 ,
+                        "type":"CEO Contacts Database"
+                    },
+                "industrial5_category2":
+                    {"id":52 ,
+                        "type":"IT Contact Database"
+                    },
+                "industrial5_category3":
+                    {"id":53 ,
+                        "type":"Finance Contact Database"
+                    },
+                "industrial5_category4":
+                    {"id":54 ,
+                        "type":"HR Contact Database"
+                    },
+                "industrial5_category5":
+                    {"id":55 ,
+                        "type":"Marketing Contact Database"
+                    }
+            }
+            
+        }
+    ]
+}
