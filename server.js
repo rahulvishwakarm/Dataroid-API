@@ -5,7 +5,9 @@ const JSONData1 = require('./db.json')
 const JSONData2 = require('./servicesbanner.json')
 const fetch = require('node-fetch');
 
-
+app.post('/', (req, res) => {
+  res.send(JSONData11);
+});
 
 app.get('/', (req, res) => {
   res.send(JSONData1);
