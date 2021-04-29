@@ -16,7 +16,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "json-server db.json & json-server servicesbanner.json"
+    "start": "json-server db.json && json-server servicesbanner.json"
   },
   "author": "",
   "license": "ISC"
