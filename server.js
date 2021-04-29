@@ -12,3 +12,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => console.log(`Hello world app listening on port ${port}!`))
+
+//Deployed on 
+//https://my-json-server.typicode.com/rahulvishwakarm/Dataroid-API/industry
