@@ -6,7 +6,7 @@ const JSONData2 = require('./servicesbanner.json')
 const fetch = require('node-fetch');
 
 app.post('/', (req, res) => {
-  res.send(JSONData11);
+  res.send(JSONData1);
 });
 
 app.get('/', (req, res) => {
