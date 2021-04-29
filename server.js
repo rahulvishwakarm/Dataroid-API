@@ -9,6 +9,10 @@ app.post('/', (req, res) => {
   res.send(JSONData1);
 });
 
+app.post('/newdata', (req, res) => {
+  res.send(JSONData2);
+});
+
 app.get('/', (req, res) => {
   res.send(JSONData1);
 });
