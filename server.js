@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 8000;
-const JSONData = require('./dbtype.json')
+const JSONData = require('./db.json')
 
 app.post('/',(req,res) => {
   res.send(JSONData)
