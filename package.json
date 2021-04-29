@@ -17,7 +17,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "concurrently \"json-server db.json arg\" \"json-server servicesbanner.json arg\""
+    "start": "json-server servicesbanner.json "
   },
   "author": "",
   "license": "ISC"
