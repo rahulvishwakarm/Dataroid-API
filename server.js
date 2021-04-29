@@ -4,13 +4,12 @@ const port = 8000;
 const JSONData = require('./db.json')
 const fetch = require('node-fetch');
 
-app.post('/',(req,res) => {
-  res.send(JSONData)
-})
+
 
 app.get('/', (req, res) => {
   res.send(JSONData);
 });
+
 
 fetch('https://my-json-server.typicode.com/rahulvishwakarm/Dataroid-API/db')
     .then(res => res.json())
