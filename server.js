@@ -1,13 +1,18 @@
 const express = require('express');
 const app = express();
 const port = 8000;
-const JSONData = require('./db.json')
+const JSONData1 = require('./db.json')
+const JSONData2 = require('./servicesbanner.json')
 const fetch = require('node-fetch');
 
 
 
 app.get('/', (req, res) => {
-  res.send(JSONData);
+  res.send(JSONData1);
+});
+
+app.get('/newdata', (req, res) => {
+  res.send(JSONData2);
 });
 
 
