@@ -9,7 +9,7 @@ app.post('/', (req, res) => {
   res.send(JSONData1);
 });
 
-app.post('/newdata', (req, res) => {
+app.post('/', (req, res) => {
   res.send(JSONData2);
 });
 
@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
   res.send(JSONData1);
 });
 
-app.get('/newdata', (req, res) => {
+app.get('/', (req, res) => {
   res.send(JSONData2);
 });
 
