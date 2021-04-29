@@ -8,7 +8,7 @@ app.post('/',(req,res) => {
 })
 
 app.get('/', (req, res) => {
-  res.send(JSONData['industry']);
+  res.send(JSONData);
 });
 
 app.listen(port, () => console.log(`Hello world app listening on port ${port}!`))
